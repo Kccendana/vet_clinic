@@ -64,8 +64,6 @@ This repository includes files with plain SQL that can be used to recreate a dat
 
 ## 👥 Authors <a name="authors"></a>
 
-> Mention all of the collaborators of this project.
-
 👤 **Katherine Cendana**
 
 - GitHub: [@Kccendana](https://github.com/Kccendana)
@@ -77,8 +75,6 @@ This repository includes files with plain SQL that can be used to recreate a dat
 <!-- FUTURE FEATURES -->
 
 ## 🔭 Future Features <a name="future-features"></a>
-
-> Describe 1 - 3 features you will add to the project.
 
 - [ ] **Add additional account table**
 
