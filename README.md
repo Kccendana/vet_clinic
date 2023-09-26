@@ -29,6 +29,9 @@
 
 **Vet Clinic** is a postgreSQL database where you can insert or find animal information like name, date of birth, neutered, escape attempts and its weight.
 
+<br>
+<img src="./schema diagram.JPG" alt="schema"  height="auto" />
+
 ## 🛠 Built With <a name="built-with"></a>
 
 ### Tech Stack <a name="tech-stack"></a>
