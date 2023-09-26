@@ -1,3 +1,5 @@
+CREATE DATABASE clinic;
+
 CREATE TABLE medical_histories (
   id int GENERATED ALWAYS AS IDENTITY PRIMARY KEY,
   admittrd_at timestamp,
